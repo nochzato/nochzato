@@ -20,6 +20,3 @@ I'm a Web Backend Software Engineer passionate about building robust and efficie
 - LinkedIn: www.linkedin.com/in/danil-nesterenko-1abb8b243
 - Email: nochzato@gmail.com
 - Twitter: @nochzato
-
-#### GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=nochzato&show_icons=true&theme=radical)
