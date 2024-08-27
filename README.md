@@ -17,7 +17,7 @@ I'm a Web Backend Software Engineer passionate about building robust and efficie
 - System Design principles for large-scale applications
 
 #### Contact information
-- LinkedIn: [www.linkedin.com/in/danil-nesterenko-1abb8b243]
+- LinkedIn: www.linkedin.com/in/danil-nesterenko-1abb8b243
 - Email: nochzato@gmail.com
 - Twitter: @nochzato
 
