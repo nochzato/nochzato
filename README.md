@@ -23,4 +23,3 @@ I'm a Web Backend Software Engineer passionate about building robust and efficie
 
 #### GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=nochzato&show_icons=true&theme=radical)
-[![nochzato profile views](https://u8views.com/api/v1/github/profiles/97691539/views/day-week-month-total-count.svg)](https://u8views.com/github/nochzato)
